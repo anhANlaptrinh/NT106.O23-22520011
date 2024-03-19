@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//b
 namespace LAB1
 {
     public partial class LAB1 : Form
